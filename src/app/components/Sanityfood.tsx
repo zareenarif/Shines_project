@@ -1,5 +1,5 @@
 import { sanityFetch } from "@/sanity/lib/live"; // Import the function to fetch data
-import { foodQuery } from "@/sanity/lib/query"; // Import your query
+import { foodQuery } from "@/sanity/lib/queries"; // Import your query
 import React from "react";
 import Image from "next/image";
 

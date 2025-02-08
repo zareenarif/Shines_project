@@ -1,5 +1,5 @@
 import { SanityFetch } from "@/sanity/lib/fetch";
-import { chefQuery } from "@/sanity/lib/query";
+import { chefQuery } from "@/sanity/lib/queries";
 import React from "react";
 import Image from "next/image";
 import Link from "next/link";

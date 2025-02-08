@@ -3,7 +3,7 @@ import { MenuItem } from '@/app/type/menu';
 export const menuItems: MenuItem[] = [
   // Starter Menu (20 items)
   {
-    id: 'crispy-calamari',
+    id: 'crispy',
     name: 'Crispy Calamari',
     description: 'Tender squid rings lightly coated in seasoned flour and fried until golden, served with zesty marinara sauce and lemon wedges.',
     ingredients: ['Fresh squid', 'Seasoned flour', 'Marinara sauce', 'Lemon', 'Parsley', 'Garlic aioli'],

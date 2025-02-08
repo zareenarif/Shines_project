@@ -10,10 +10,15 @@ import SevenHero from "./components/sevenhero";
 import EightHero from "./components/eighthero";
 import NineHero from "./components/ninthhero";
 import SearchProducts from "./components/searchbar/searchproduct";
+import SanityChefData from "./components/Sanitychef";
+import SanityHomeData from "./components/Sanityfood";
 export default function Home() {
   return (
     <div>
+      
       <Hero/>
+      <SanityHomeData/>
+  <SanityChefData/>
       <FirstHero/>
 
       <SearchProducts/>
